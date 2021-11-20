@@ -1,4 +1,4 @@
-# kalimirrors
+# Kali Mirror Script
 Script to change official Kali repository to mirrors. This helps increase packages update and downloading for some user. Please visit my Twitter [post](https://www.twitter.com/sawasavx).
 
 ## Requirements
